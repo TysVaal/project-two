@@ -1,0 +1,6 @@
+.flexboxcontainer {
+  padding: 10px;
+  margin: 15px auto;
+  display: flex;
+  flex-wrap:wrap;
+}

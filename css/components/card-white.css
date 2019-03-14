@@ -1,0 +1,42 @@
+.card-white {
+  background-color: white;
+  padding: 20px;
+  box-shadow: 0px 10px 40px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 10px;
+  text-align: center;
+  flex-grow: 1;
+  height:240px;
+}
+
+.card-white img {
+  width:150px;
+  border-radius: 50x;
+}
+
+.card-white h1 {
+  flex-grow: 1;
+  font-size: 40px;
+}
+
+.card-white li{
+  text-align: left;
+  font-size: 16px;
+}
+
+#CV{
+  align-items: center;
+}
+#CV img{
+ width: 400px;
+ margin: 0.1px auto;
+}
+#CV h1{
+  font-size: 18px;
+}
+
+#form{
+  padding:5px;
+  align-items: center;
+  height: 270px;
+}
