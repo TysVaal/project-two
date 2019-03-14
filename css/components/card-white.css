@@ -24,6 +24,17 @@
   font-size: 16px;
 }
 
+@media (max-width:540px) {
+   ol{
+    color: rgba(240,240,240,0.9);
+   }
+}
+
+#spacing{
+  margin-bottom: 1px;
+  margin-top: 1px;
+}
+
 #CV{
   align-items: center;
 }
